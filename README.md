@@ -22,6 +22,9 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | [🔍 LLM Monitoring](#llm-monitoring) | [📅 LLM Prompts](#llm-prompts) | [📝 LLM Structured Outputs](#llm-structured-outputs) |
 | [🛑 LLM Safety and Security](#llm-safety-and-security) | [💠 LLM Embedding Models](#llm-embedding-models) | [❇️ Others](#others) |
 
+## Related Repositories
+- 🚀[RAG Zero to Hero Guide](https://github.com/KalyanKS-NLP/rag-zero-to-hero-guide)  - Comprehensive guide to learn RAG from basics to advanced.
+
 
 ## LLM Training and Fine-Tuning
 | Library             | Description                                                                                     | Link |
