@@ -175,6 +175,7 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | CrewAI        | Framework for orchestrating role-playing, autonomous AI agents.                                          | [Link](https://github.com/crewAIInc/crewAI) |
 | LangGraph     | Build resilient language agents as graphs.                                                               | [Link](https://github.com/langchain-ai/langgraph) |
 | Agno          | Build AI Agents with memory, knowledge, tools, and reasoning. Chat with them using a beautiful Agent UI.  | [Link](https://github.com/agno-agi/agno) |
+| Agents SDK    | Build agentic apps using LLMs with context, tools, hand off to other specialized agents.                  | [Link](https://platform.openai.com/docs/guides/agents-sdk) |
 | AutoGen       | An open-source framework for building AI agent systems.                                                  | [Link](https://github.com/microsoft/autogen) |
 | Smolagents    | Library to build powerful agents in a few lines of code.                                                 | [Link](https://github.com/huggingface/smolagents) |
 | Pydantic AI | Python agent framework to build production grade applications with Generative AI. | [Link](https://ai.pydantic.dev/) |
