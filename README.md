@@ -81,6 +81,8 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 |--------------|------------------------------------------------------------------------------------------------------|-------|
 | mem0         | The Memory layer for your AI apps.                                                                     | [Link](https://github.com/mem0ai/mem0) |
 | Memoripy     | An AI memory layer with short- and long-term storage, semantic clustering, and optional memory decay for context-aware applications. | [Link](https://github.com/caspianmoon/memoripy) |
+| Letta (MemGPT)     | An open-source framework for building stateful LLM applications with advanced reasoning capabilities and transparent long-term memory | [Link](https://github.com/letta-ai/letta) |
+| Memobase     | A user profile-based memory system designed to bring long-term user memory to your Generative AI applications. | [Link](https://github.com/memodb-io/memobase) |
 
 <p align = "center"> <b> Interface </b> </p>
 
