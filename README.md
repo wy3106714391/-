@@ -61,6 +61,13 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | Weave        | Weave is a toolkit for developing Generative AI applications.                                          | [Link](https://github.com/wandb/weave) |
 | Llama Stack  | Build Llama Apps.                                                                                      | [Link](https://github.com/meta-llama/llama-stack) |
 
+
+<p align = "center"> <b> Data Preparation </b> </p>
+
+| Library        | Description                                                                                               | Link  |
+|--------------|------------------------------------------------------------------------------------------------------|-------|
+| Data Prep Kit | Data Prep Kit accelerates unstructured data preparation for LLM app developers. Developers can use Data Prep Kit to cleanse, transform, and enrich use case-specific unstructured data to pre-train LLMs, fine-tune LLMs, instruct-tune LLMs, or build RAG applications. | [Link](https://github.com/data-prep-kit/data-prep-kit) | 
+
 <p align = "center"> <b> Multi API Access </b> </p>
 
 | Library        | Description                                                                                               | Link  |
@@ -181,6 +188,7 @@ This repository contains a curated list of 120+ LLM libraries category wise.
 | AutoGen       | An open-source framework for building AI agent systems.                                                  | [Link](https://github.com/microsoft/autogen) |
 | Smolagents    | Library to build powerful agents in a few lines of code.                                                 | [Link](https://github.com/huggingface/smolagents) |
 | Pydantic AI | Python agent framework to build production grade applications with Generative AI. | [Link](https://ai.pydantic.dev/) |
+| BeeAI | Build production-ready multi-agent systems in Python. | [Link](https://github.com/i-am-bee/beeai-framework/tree/main/python) | 
 | gradio-tools  | A Python library for converting Gradio apps into tools that can be leveraged by an LLM-based agent to complete its task. | [Link](https://github.com/freddyaboulton/gradio-tools) |
 | Composio      | Production Ready Toolset for AI Agents.                                                                  | [Link](https://github.com/ComposioHQ/composio) |
 | Atomic Agents | Building AI agents, atomically.                                                                         | [Link](https://github.com/BrainBlend-AI/atomic-agents) |
